@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppCatalog</string>
+    <string name="title_application_list">Applications</string>
+    <string name="title_application_detail">Application Detail</string>
+    <string name="title_coconut_list">Coconuts</string>
+    <string name="title_coconut_detail">Coconut Detail</string>
+</resources>
